@@ -1,0 +1,72 @@
+.form-control
+{
+  background-color: #091d42!important;
+}
+
+
+.in
+{
+    font-size: small;
+}
+.required {
+color: red;
+}
+.heading{
+background-color:  #091d42;
+padding: 10px;
+}
+.card {
+background-color:  #091d42!important;
+
+}
+.main
+{
+border-radius: 10px;
+}
+.cards
+{
+border-radius: 10px;
+}
+h3,p{
+color: white;
+}
+.form
+{
+background-color: #091d42!important; 
+border-radius: 50px;
+padding: 20px;
+}
+.btn
+{
+background-color: black!important;
+color: white!important;
+}
+footer{
+background-color: #091d42; 
+
+}
+.logo
+{
+height: 30px;}
+.t
+{
+height: 40px;
+}
+.img
+{
+
+filter: grayscale(70%);
+border-radius: 10px;
+}
+.img:hover
+{
+filter: grayscale(0%);
+transition: 1s;
+margin-top: -5px;
+}
+.nav-link:hover
+{
+    color:blue!important;
+
+
+}
